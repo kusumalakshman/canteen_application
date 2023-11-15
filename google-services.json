@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "432426794139",
+    "firebase_url": "https://campus-bites-rvitm-default-rtdb.firebaseio.com",
+    "project_id": "campus-bites-rvitm",
+    "storage_bucket": "campus-bites-rvitm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432426794139:android:49cc636c52bb0d19cdda3e",
+        "android_client_info": {
+          "package_name": "com.example.campus_bites_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432426794139-k6ughl4ttcqfddn7pss3617una61jtem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA44v21goU4bd3hqvddte0TNeCw8WxIMWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432426794139-k6ughl4ttcqfddn7pss3617una61jtem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432426794139:android:e794dec8eeae6bddcdda3e",
+        "android_client_info": {
+          "package_name": "com.example.campusbitesrvitm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432426794139-k6ughl4ttcqfddn7pss3617una61jtem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA44v21goU4bd3hqvddte0TNeCw8WxIMWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432426794139-k6ughl4ttcqfddn7pss3617una61jtem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
